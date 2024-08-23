@@ -175,3 +175,12 @@ body {
     background-image: linear-gradient(to right, rgba(233, 25, 70, 0.896), var(--tomato));
 }
 
+@media (min-width: 649px) {
+    .illustration {
+        width: 100.11%;
+    }
+}
+
+img {
+    width: 100%:
+}
